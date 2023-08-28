@@ -25,7 +25,7 @@ const icone = document.querySelector('.app__card-primary-butto-icon');
 
 const musica = new Audio('/sons/luna-rise-part-one.mp3');
 
-const inciarContagemAudio = new Audio('sons/play.wav');
+const inciarContagemAudio = new Audio('/sons/play.wav');
 
 const pararContagemAudio = new Audio('/sons/pause.mp3');
 
